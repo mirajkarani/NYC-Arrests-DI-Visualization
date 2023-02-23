@@ -1,7 +1,5 @@
 # NYC Arrests: Data Integration & Visualization
 
-# Overview
-
 • Designed dimensional model in Dataedo for NYPD Arrests Historical data (OpenData) and performed data profiling, data prep, and ETL for staging using Alteryx Designer
 • Developed data integration workflow in Talend Open Studio and created dashboards using Tableau and Power BI for trend analysis and generating insights
 
