@@ -14,7 +14,7 @@
 • Azure SQL & SQL Server <br />
 • MySQL <br />
 
-BI Dashboards
+# BI Dashboards
 
 • Map arrests on map <br />
 • Trend charts for number of arrests by date <br />
